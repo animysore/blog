@@ -1,4 +1,3 @@
-
 source 'https://rubygems.org'
 
 gem 'jekyll'
@@ -8,4 +7,3 @@ gem 'rake'
 gem 'thor'
 gem 'activesupport'
 gem 'stringex'
-require 'rbconfig'
