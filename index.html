@@ -27,8 +27,18 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {% if post.content contains '<!--break-->' %}
+      {{ post.content | split:'<!--break-->' | first }}
+    {% elsif post.content contains '<!--leadstart-->' %}
+      {% capture lead %}{{ post.content | split:'<!--leadstart-->' | last }}{% endcapture %}
+      {{ lead | split:'<!--leadend-->' | first }}
+    {% else %}
+      {{ post.content | truncatewords: 100 }}
+    {% endif %}
   </div><!-- /.entry-content -->
+  <div class="clearfix">
+      <a class="btn btn-primary" href="{{ post.url }}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+  </div>
 </article><!-- /.hentry -->
 {% endfor %}
 

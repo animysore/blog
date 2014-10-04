@@ -7,7 +7,7 @@ url:              http://AniMysore74.github.io
 owner:
   name:           Aniruddha Mysore 
   avatar:         avatar.jpg
-  bio:            
+  bio:            I'm a Coder and a Web Designer, looking to change the world with my ideas.
   email:          aniruddha.mysore@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -61,6 +61,13 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
-
+gems:
+  - jemoji
+prose:
+    rooturl: '_posts'
+    siteurl: 'http://AniMysore74.github.io'
+    media: 'images'
+    relativeLinks: 'http://AniMysore.github.io/links.jsonp'
+       
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

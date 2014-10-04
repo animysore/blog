@@ -1,4 +1,4 @@
-title:            Aniruddha Mysore's Blog
+title:            Ani Mysore's Blog
 description:      Tech Philosophy and More 
 disqus_shortname: animysore74
 #Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -52,7 +52,7 @@ kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
+  toc_levels: 1..
   use_coderay: true
 
   coderay:
