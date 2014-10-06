@@ -2,7 +2,7 @@
 layout: post
 title: Welcome
 description: An introduction to my blog
-modified: {}
+modified: 
 tags: 
   - Welcome
 image: 
