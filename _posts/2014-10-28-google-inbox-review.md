@@ -57,7 +57,7 @@ The main screen can be toggled to either the normal view, or one showing only yo
 We've all felt the need to group annoying repetitive emails under one label. Inbox introduces **Bundling** which basically means most of your email is now grouped under many *bundles* - which are easy to read and more pleasing to the eye.
 Bundles form one of the core features of Google Inbox, and it seems me to stand for order and simplicity in the otherwise chaotic realm of my email inbox.
 
-Remember all those yucky groups you had to make for boring mail? Inbox takes that burden off your back by automatically categorizing your mail under labels like `Promos` and `Updates`. Granted it sometimes confuses itself, but it can easily be trained to recognize the hundreds of email you get.   
+Remember all those yucky groups you had to make for boring mail? Inbox takes that burden off your back by automatically categorizing your mail under labels like `Promos` and `Updates`. Granted it sometimes confuses itself, but it can easily be trained to recognize the hundreds of emails you get.   
 
 <figure class = "third" >  
 	<a href="/images/inbox-android-sidebar-screen
@@ -151,6 +151,6 @@ Of course the `Done` Tab sort-of functions like the trash-bin. Sort-Of. It takes
 
 #Final Verdict 
 
-If you love Google Now, and its alert style, your going to love inbox too. Don't let that pretty interface fool you though. There are a LOT of little niggles in Inbox, and using it after years of being accustomed to Gmail, is going to be a little tiring. Google has abandoned many of Gmail's most iconic features in trying to create the email of the future. And not all of its substitutes function perfectly. The sorting algorithms of Google, in particular leave lots of room for improvement. But in the end, Google Inbox does what it claims to do, and does it pretty well for a radically new idea.
+If you love Google Now, and its alert style, you are going to love inbox too. Don't let that pretty interface fool you though. There are a LOT of little niggles in Inbox, and using it after years of being accustomed to Gmail, is going to be a little tiring. Google has abandoned many of Gmail's most iconic features in trying to create the email of the future. And not all of its substitutes function perfectly. The sorting algorithms of Google, in particular leave lots of room for improvement. But in the end, Google Inbox does what it claims to do, and does it pretty well for a radically new idea.
 
 ####No I don't have any invites left. Or know anyone who does.
