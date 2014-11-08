@@ -154,3 +154,4 @@ Of course the `Done` Tab sort-of functions like the trash-bin. Sort-Of. It takes
 If you love Google Now, and its alert style, you are going to love inbox too. Don't let that pretty interface fool you though. There are a LOT of little niggles in Inbox, and using it after years of being accustomed to Gmail, is going to be a little tiring. Google has abandoned many of Gmail's most iconic features in trying to create the email of the future. And not all of its substitutes function perfectly. The sorting algorithms of Google, in particular leave lots of room for improvement. But in the end, Google Inbox does what it claims to do, and does it pretty well for a radically new idea.
 
 ####No I don't have any invites left. Or know anyone who does.
+{: .notice}
