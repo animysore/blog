@@ -7,7 +7,7 @@ tags:
   - web development
   - crosspublished
 image: 
-  feature: "abstract-13"
+  feature: "abstract-13.jpg"
 comments: true
 share: true
 published: true
