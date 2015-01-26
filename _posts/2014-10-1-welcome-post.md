@@ -20,7 +20,7 @@ I've often wondered about the ramifications of starting a blog. Wittily penning 
 
 *And he said*
     
-![Sunbeams](http://1hdwallpapers.com/wallpapers/thumbs/let_there_be_light.jpg)
+![Sunbeams](/images/2014-10-1-welcome-post/let_there_be_light.jpg)
 
   
 >***Let There Be Light !***

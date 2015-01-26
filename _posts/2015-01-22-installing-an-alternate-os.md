@@ -20,8 +20,24 @@ You should install whatever operating system best suits your particular programm
 
 In the end it comes down simply to what best fits your comfort zone. The Mac OS is better suited for programming than Windows. But neither of these are as popular as open-source linux distros.
 
-###2) Are there any precautions I should take before trying to install a new OS.
+###2) Is it compulsory to install an OS to use it? 
+
+First of all, it is not required for you to actually install an OS on your hard disk to use one. Lots of linux operating systems let you run operating systems on flash drives and cd's. Usually this is to let you demo the OS before installing, but with this method you can actually use an entire OS without it installing on your hard drive.
+
+Almost all operating systems out there can be run by `virtualization`. What this means is that you use an os within another os. There are several great software for doing this, for both Windows and Mac (Also linux). `Virtualbox` and `VMware`(Virtualbox is free) come on the very top of the list. 
+
+You can run pretty much any operating system - Android,iOS,Windows,OSX,(Ku/Edu/Lu/U)buntu, Debian Linux - anything as long as your processor supports (hardware)`virtualization technology` or `VT`. 
+
+Virualbox can, to a large extent manage on older processors which do not have `VT` enabled, however performance might be low. VMware requires some bypassing commands to do the same.
+{: .notice}
+
+Anything newer than Intel `Pentium` or AMD 
+
+###3) Are there any precautions I should take before trying to install a new OS.
 
 **Yes!** As I mentioned before, you might murder your computer by accident when installing an OS, so always take a backup of all you data onto ANOTHER COMPUTER or a HARD DISK. 
 
-Also partition 
+Also its always better to partition your hard drive when you start the installation process. Most Operating Systems allow you to partition your hard drive before installation, but its always better to do it beforehand to ensure nothing goes wrong. Its usually easiest if you use your current OS to partition. If you're on Windows use the `Disk Management` tool, `Disk Utitlity` on Mac, and `GParted` on Linux.
+
+Never,ever,ever install an OS onto the same partition as another OS. Always Take care you select an empty partition during installation.
+{: .notice}
