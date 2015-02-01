@@ -15,94 +15,201 @@ share: true
 published: true
 ---
 
-####***Why most programmers need an alternate operating system and how you should go about getting one***
+###*This is a report of the Open House of the 5th Annual Design Innovation Workshop held by MIT Media Labs on 23rd January at PDPU, Gandhinagar* 
 
-So, if you are reading this on a laptop or a desktop computer, I can say with 98.98 percent surety that you are using a version of either the Windows or Mac `Operating System`. 
-
-Generally, a single operating system is sufficient for most computer users. But when you are developing software for multiple operating systems, or using your computer for things like making a web server, or running very specific development environments, often one operating system ceases to be enough.
-
-Running more than one operating system on a computer or `dual-booting` as it is usually called ( or triple-boot, quad-boot, etc, although the word usage is not as common as dual-boot) is actually very simple and easy, but if you fail to follow some basic procedures, you could end up losing your data, or being unable to use even one OS. Even more terrible things, depending on how bad you screw up.
-
-However operating systems need not always be *installed*. More on `virtualization` later.
-
-Here are some questions you will most probably have if you are new to installing operating systems : 
-
-###1) Which OS should I install?
-
-You should install whatever operating system best suits your particular programming requirements. Windows and OSX are generally best suited for app and software development for those platforms. For most other things, `linux` flavours are popular. If you simply want to install a linux OS, I would personally recommend either `Ubuntu` or `Debian`. Both have easy installations, great support bases, lots of software and applications, and a modern UI. 
-
-In the end it comes down simply to what best fits your comfort zone. The Mac OS is better suited for programming than Windows. But neither of these are as popular as open-source linux distros.
-
-###2) Is it compulsory to install an OS to use it? 
-
-First of all, it is not required for you to actually install an OS on your hard disk to use one. Lots of linux operating systems let you run operating systems on flash drives and cd's. Usually this is to let you demo the OS before installing, but with this method you can actually use an entire OS without it installing on your hard drive.
-
-Almost all operating systems out there can be run by `virtualization`. What this means is that you use an OS within another OS. There are several great software for doing this, for both Windows and Mac (Also linux). `Virtualbox` and `VMware`(Virtualbox is free) come on the very top of the list. 
-
-You can run pretty much any operating system - Android,iOS,Windows,OSX,(Xu/Ku/Edu/Lu/U)buntu, Debian, Fedora, Red Hat - anything as long as your processor supports (hardware)`virtualization technology` or `VT`. 
-
-Virtualbox can, to a large extent manage on older processors which do not have `VT` enabled, however performance might be low. VMware requires some bypassing commands to do the same.
+I sincerely apologize for the low picture quality.  
 {: .notice}
 
-Anything newer than Intel `Pentium` or AMD `Athlon` would probably support VT, but check your processor specifcations before trying to run a virtual OS.
+Over 50 fascinating exhibits, all made in the span of a week; It was quite literally Maker's Heaven. Attending as I was, on the day of the exhibition of the final models, it was difficult to imagine what kind of magic must have taken place in the workshops held in the previous week. There were 10 different tracks, spanning from synthetic biology and civic innovation to immersive storytelling. 
 
-###3) Are there any precautions I should take before trying to install a new OS.
+**< Insert 20th Century Fox Intro >**
 
-**Yes!** As I mentioned before, you might murder your computer by accident when installing an OS, so always take a backup of all you data onto ANOTHER COMPUTER or a HARD DISK. 
+All the projects were made by the students of different colleges and research institutes across India, under guidance from the mentors from MIT Media Labs. The exhibits were truly innovative, with many aiming to solve critical design problems, while others were all about the Human perception, and how to express ideas in ways that are impossible to ignore. 
 
-Before installing any OS, always read the specifications fully, including the version you are planning to install. Check on forums for any complaints people have had when they have tried to install that particular version of that OS on your computer model.
+Among these, I felt the most intriguing one, was a device which puts you in the feet of someone who has just taken LSD. Yes really. Looking something like an Oculus Rift (it was actually made of cardboard, and used a smartphone for a screen, but let's be considerate guys) the device actually made me woozy after the entire experience. I must be frank here. It was supercalifragilisticexpialidocious. 
 
-Also its always better to partition your hard drive when you start the installation process. Most Operating Systems allow you to partition your hard drive before installation, but its always better to do it beforehand to ensure nothing goes wrong. Its usually easiest if you use your current OS to partition. If you're on Windows use the `Disk Management` tool, `Disk Utitlity` on Mac, and `GParted` on Linux.
+**Shadow Soldier** was an adventure game which had users using two accelerometer-embedded balls to control shadows and progress in the game. A really cool physics simulation!   
 
-Never,ever,ever install an OS onto the same partition as another OS. Always take care you select an empty partition during installation.
-{: .notice}
+<figure class = "half" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-1.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-2.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-2.jpg" alt="">
+    </a>
+</figure> 
 
-###4) Which installation method should I use?
+###Super Fibers
 
-When you 'download an OS' in most cases you are actually downloading an `ISO` file, or a compressed `ISO` file. This `ISO` file can either be burnt to a CD, or to a USB. Its upto you, to choose which. Some old computers may not be able to boot from USB.
+From the Smart Textiles track, there were several projects that really piqued my interest. Added here it must be, this important point : A lot of these projects used electronics almost completely constructed from fibres.
 
-Its not just enough MOVING the ISO file to a CD or USB. It must be burnt, so as to make it BOOTABLE.
-{: .notice}
+<figure>  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-speaker.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-speaker.jpg" alt="">
+    </a>
+    <figcaption> Looks funny eh? </figcaption>
+</figure>
 
-There are plenty of software for burning ISO files. Here are two free ones, for the lazy and the uninitiated (**Disclaimer** : Don't blame me if this causes your computer to explode, or transform into a killer robot)  
-   - For burning to discs : [Free Iso Burner](http://freeisoburner.com/)
-   - For burning to USB : [ISO to USB](http://isotousb.com/)
+The pictures above are of a speaker made completely from fabrics and a single Neodymium magnet. It uses conductive thread for wiring, and the fabric itself acts as the diaphragm. This concept is absolutely amazing. They are looking to create a pillow with this device, that also functions as an alarm!  
 
-**General Install intructions : **
+3D printers which print plastics are common, but this device can print textiles. The printer uses woolen thread on foam pads to create layers of 2-dimensional patterns which can be attached together to create any piece of clothing you want. (Supposedly).
 
-After you burn the ISO image, insert the USB/Disc. If there is no autorun program, switch off your computer and proceed to the next step. If there is an autorun program, open it and follow instructions. At the end you will be prompted to reboot your computer.
+<figure>  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-3d-printer.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-3d-printer.jpg" alt="">
+    </a>
+    <figcaption> We can make our own clothes now. How advanced! </figcaption>
+</figure>
+      
+3D touch sensors have loads of applications, and one team decided to have fun by building one completely with fibers. Their oh-so-cushy sensor is also pressure sensitive, and thus happens to be a great game controller. Now we can call, text, and control objects in 3 dimensions by just pressing a pillow. A TV-remote cushion? Oh please oh please oh please.
 
-Before the OS boots, when you are still on the `BIOS` screen, press the required function key to change boot device. ( Usually `F9` on most PCs, but look up the specifics for your device to be sure ) 
+<figure class = "third" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-1.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-3.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-3.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-2.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-2.jpg" alt="">
+    </a>
+</figure>    
 
 
- 
-###5) Precautions to take DURING installation
+**Smart Rugs and Carpets**
 
-Whenever you are installing a new OS, make sure to keep your computer fully charged and plugged in. (duh!) 
+There were many different projects using the idea of fabric based electronics and sensors embedded in rugs. 
 
-Ensure you have all the files you may need, already downloaded and ready to be booted if required. I personally would recommend downloading the `boot repair disk` and putting it on either a bootable CD or USB, especially if you are installing linux.
+**Footfall** is a smart carpet which has pressure sensors stitched inside the fabric, with the idea that it can be used to gain crowd information in a big convention or exhibition, by monitoring where and how the crowd moves. 
 
-Keep your internet easily accessible. Always. WiFi is recommended, but Cable will also work. If you use a dongle, try to convert it's  network into a hotspot as the OS you just install maybe unable to use it. Have another computer standing as backup, in case your installation goes boink.
+<figure class = "third" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-1.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-2.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-2.jpg" alt="">
+    </a>
+</figure>
 
-Boot repair disk can be downloaded [**here**](http://sourceforge.net/projects/boot-repair-cd/).
+Here is another smart fabric - one that can sense when it is wet - that uses just conducting thread stitched into a super-absorbent cloth which is then placed under a blanket, and using a small external chip, it can detect where the fabric becomes wet, and can send notifications to a smartphone app whenever there is, eh, a wetness on the cloth. Yes we know the most obvious application here...
 
-The boot repair disk can be booted from directly. It's main function to fix GRUB, but it also contains very useful tools, such as `GParted` the partition editor, as well as an `OS-Uninstaller`. It can also be used to access the internet, in case you need some urgent help.
+<figure class = "third" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-poster.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-poster.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-1.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-2.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-2.jpg" alt="">
+    </a>
+</figure>
 
-###6) What should I do if something goes wrong during the install 
+##Enabling Toys
 
-Odds are, the install will not go *ferpectly the ristf eimt*. Maybe there were driver problems. Maybe your computer was not fully compatible with the OS version you tried to install. Maybe you made some other mistakes. Whatever happens, it's always best if you try the whole install afresh. If you think the operating system has not installed completely or with some defects, use the boot repair disk to uninstall the operating system, format the partition that you installed the OS on, and try again.
+This track focused on building cost-effective devices to ease the everyday burdens of differently abled people.
 
-> In case of a failed install, Purge, Cleanse and Start over!
+Featuring on this category are two simple, low-tech prosthetic arms which have been made to be easy to use. 
 
-###7) The OS has been installed. Now what?
+<figure class = "third" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-1.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-4.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-4.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-5.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-5.jpg" alt="">
+    </a>
+</figure>
 
-So all the installation is done. **Check if everything is functioning as it should.** The only tests you need to run, are with the hardware. Just make sure all your hardware components - speakers, keyboard, touchpad/mouse, camera, ports - are all functioning correctly. If there is a problem with anything, try looking on forums if you're experiencing a known issue with the OS. More likely than not, the drivers will need to be updated, and once this is done, your new OS will be ready.
+One of the projects that stood out was a thermal vision system for the blind. Essentially it uses electricity to generate heat on a grid. By heating individual units of the grid in patterns, the system can help the blind 'see' a grayscale image of their loved ones, or of pretty much anything.
 
-> Aah, the satisfaction of using a freshly installed OS
+<figure class = "half" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-1.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-2.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-2.jpg" alt="">
+    </a>
+    <figcaption> Unfortunately, no live demonstration </figcaption>
+</figure> 
 
-**Some General tips for linux :** Start using the terminal for even basic things. That way you'll get the hang of it. Install updates, as soon as you get your system up and running. 
+**The glove multimeter** (tada) was one device I absolutely loved. This beautiful piece of technology lets you use a glove as a multimeter. Sigh.
 
-**General tips for Ubuntu :** [Click Here](http://www.unixmen.com/top-things-installing-ubuntu-14-1014-0413-1013-0412-1012-04/) for a quick list of things to do immediately after you install Ubuntu.
+<figure>  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-glove-multimeter.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-glove-multimeter.jpg" alt="">
+    </a>
+    <figcaption> Want. Like THIS much</figcaption>
+</figure>
 
------
-If you found this article helpful, please Like, Comment and Share. Go forth and conquer!
+###The Synthetic Biology Track
+
+Several of these projects actually featured things like DNA programming with a piano (Oops, no pictures) which could also make music from any DNA you give it, gene implantation into microbial cells, and other magical practices from a subject I understand very little.
+
+**Graffit-E-coli** was by far the coolest exhibit of the Synthetic Biology track. The team had extracted genes from coral, implanted them in the notorious E-coli bacteria to generate bio-paint. And they had a spray paint can with an arduino stuck at the bottom, which supposedly can be used indefinitely, as long as you ensure the E-coli keep living inside. Unlimited Grafitti. Let the vandals feast. 
+
+<figure class = "half" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-1.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-2.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-2.jpg" alt="">
+    </a>
+</figure> 
+
+###Eyecatchers from the other tracks 
+
+**Neo** was a great IOT smart door concept. A groovy looking panel that can be attached to any door and monitors when you are in and out of your home, and can send automated greetings to family members when you leave for work every morning, and give you the latest news and happenenings in your social circles after you return Home. 
+
+Being an `IOT` device, it can be used for things apart from doors, with its adaptability and portability being its greatest feauture. The team members also told me that its future functions included automatically locking and unlocking your door, and acting as a smart security system too.
+
+<figure>  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-smart-door.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-smart-door.jpg" alt="">
+    </a>
+</figure>
+
+**Sense** is a smart bio watch which along with a smartphone app, and a sensor worn on your body acts like a total health monitoring system. It has the capability to give warnings when your diet is poor, or warn you of any illnesses you may have even before symptoms appear. It can co-ordinate with doctors too. Also it happens to be sleek and great-lookin'. 
+
+<figure class = "third" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-1.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-2.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-2.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-me-wearing-biowatch.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-me-wearing-biowatch.jpg" alt="">
+    </a>
+    <figcaption>  Yep. That's me wearing the watch. Right there. That's me! </figcaption>
+</figure>   
+
+Last but most certainly not the least on my favourites list, is the project which I felt will attain instant success world over, without a doubt. Calling all occupants: **The P-Racer** is a game system that can be installed in Men's urinals which promotes friendship among strangers. It has a simple rule : The guy who goes fastest wins. It (apparently) uses a halifax sensor to measure the rotation of a small disc which spins when, well, 'liquids' fall on it. Genius. 
+
+<figure class = "half" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-1.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-1.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-2.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-2.jpg" alt="">
+    </a>
+</figure> 
+
+This is just a very small list of the projects exhibited by the students who participated in the design innovation workshop. The open-house was very well organised, and beautifully done to the very end. 
+
+<figure class = "half" >  
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-mentors.jpg">
+       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-mentors.jpg" alt="">
+    </a>
+    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-banner.jpg">
+        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-banner.jpg" alt="">
+    </a>
+</figure> 
+
+--- 
+Please like, comment and share if you liked this article!
