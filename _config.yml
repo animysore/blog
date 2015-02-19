@@ -1,13 +1,13 @@
-title:            Aniruddha Mysore's Blog
-description:      Tech Philosophy and More 
+title:            The New Age Tech Connoisseur
+description:      My Thoughts on Tech, Programming and Life
 disqus_shortname: animysore74
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://AniMysore74.github.io
+url:              http://thenewcon.com
 # Owner/author information
 owner:
   name:           Aniruddha Mysore 
   avatar:         avatar.jpg
-  bio:            I'm a Coder and a Web Designer, looking to change the world with my ideas.
+  bio:             I'm a programmer with web design as my hobby and changing the world as my life goal.
   email:          aniruddha.mysore@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -19,7 +19,7 @@ owner:
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  # google plus id, include the '+', eg +mmistakes
+  # google plus id, include the '+', eg +
   google_plus:    +AniruddhaMysore
 
 # Background image to be tiled on all pages
@@ -46,7 +46,7 @@ markdown:    kramdown
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 5
+paginate: 3
 
 kramdown:
   auto_ids: true
