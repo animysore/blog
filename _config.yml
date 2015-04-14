@@ -26,8 +26,8 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:   UA-61876242-1
+google_verify:      8v8T17NoZyooWqHyBMHNyy0BWYuh3OaeaXfkcB_9-Og
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
@@ -61,13 +61,6 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
-gems:
-  - jemoji
-prose:
-    rooturl: '_posts'
-    siteurl: 'http://AniMysore74.github.io'
-    media: 'images'
-    relativeLinks: 'http://AniMysore.github.io/links.jsonp'
-       
+
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

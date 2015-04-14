@@ -135,4 +135,6 @@ Angular and Polymer are very very similar. Here's a post laying out the differen
  
 [Node Cloud](http://www.nodecloud.org/) This website contains all the possible resources you will ever need to get started with Node.js, including details of different frameworks and IDE's. 
 
+[Udemy's Node.js tutorial](https://blog.udemy.com/node-js-tutorial/) Udemy has a beginners' course for learning MongoDB in Node.js. Great for someone who wants to launch themselves into a database-intensive NodeJS project. 
+
 [Github list of Angular JS Resources](https://github.com/jmcunningham/AngularJS-Learning) From what I infer after opening a fraction of the links to resources provided here - and they are great ones too - is if you want to begin with Angular Js, visit this page.
