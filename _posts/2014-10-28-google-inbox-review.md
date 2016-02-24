@@ -8,7 +8,6 @@ tags:
   - inbox
   - email
   - review
-  - invite
 image: 
   feature: "abstract-4.jpg"
 comments: true
