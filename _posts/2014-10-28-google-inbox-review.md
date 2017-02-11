@@ -3,12 +3,12 @@ layout: post
 title: "Google Inbox - An Email client with serious potential."
 description: "A review of Google's latest attempt to change the way the world uses Gmail."
 modified: null
-tags: 
+tags:
   - google
   - inbox
   - email
   - review
-image: 
+image:
   feature: "abstract-4.jpg"
 comments: true
 share: true
@@ -17,7 +17,7 @@ published: true
 
 ***A review of Google's latest attempt to change the way the world uses Gmail.***
 
-So yeah you received the invite from Google, or you begged your friend who got lucky in order to get that oh-so-prestigious invite to start using, wait for it, `Sorted Email`. 
+So yeah you received the invite from Google, or you begged your friend who got lucky in order to get that oh-so-prestigious invite to start using, wait for it, `Sorted Email`.
 
 <figure>  
     <a href="/images/2014-10-28-google-inbox-review/inbox-invite-mail.png">
@@ -27,7 +27,7 @@ So yeah you received the invite from Google, or you begged your friend who got l
 </figure>              
 Despite all my initial misgivings about a second email client, Google Inbox is user-friendly, helpful, and does what it promises to do - makes the chore of managing your email easier. Google Inbox takes a leaf out of Google Now's book, by making emails important to you more prominent, and introducing a `Mark as Done` system which constantly reminds you to read your two week mailbox until you, well, mark everything as done.
 
-Google clearly wants to do away with the traditional email, with its long list of incoming messages, personal conversations mixed with promotional mails from various companies, side folders and labels, and replaces it with a smart algorithm which does all the sorting work for you. 
+Google clearly wants to do away with the traditional email, with its long list of incoming messages, personal conversations mixed with promotional mails from various companies, side folders and labels, and replaces it with a smart algorithm which does all the sorting work for you.
 
 <figure class = "third" >  
 	<a href="/images/2014-10-28-google-inbox-review/inbox-app-1-1242x2208.png">
@@ -43,7 +43,7 @@ Google clearly wants to do away with the traditional email, with its long list o
 </figure>              
 
 
-##First look 
+## First look
 
 Inbox has a beautiful interface, one that is deeply rooted in Google's Material Design. Email is displayed in a crisp format, and all your regular mail thingies - Drafts, Sent Mail, Archives - are accessible via the sidebar.
 
@@ -51,7 +51,7 @@ The main screen can be toggled to either the normal view, or one showing only yo
 
 
 
-##Bundles
+## Bundles
 
 We've all felt the need to group annoying repetitive emails under one label. Inbox introduces **Bundling** which basically means most of your email is now grouped under many *bundles* - which are easy to read and more pleasing to the eye.
 Bundles form one of the core features of Google Inbox, and it seems me to stand for order and simplicity in the otherwise chaotic realm of my email inbox.
@@ -79,9 +79,9 @@ Remember all those yucky groups you had to make for boring mail? Inbox takes tha
 </figure>          
 
 
-##Reminders
+## Reminders
 
-One of the most prominent things about Inbox is that reminders and emails are treated as the same. They both show up in your inbox, both can be pinned, and both are listed in the same way. 
+One of the most prominent things about Inbox is that reminders and emails are treated as the same. They both show up in your inbox, both can be pinned, and both are listed in the same way.
 
 Reminders was a great addition to Inbox, and now you can list out things to do in your mail itself, and later be reminded on Google Now. Oh and of course - your Inbox reminders are the same as your Google Now reminders, so everything is imported as soon as you sign in.
 
@@ -142,15 +142,12 @@ As mentioned before, all emails and reminders can be pinned in Inbox, and the ma
 </figure>           
 
 
-## Deleting that delete button 
+## Deleting that delete button
 
-One of the first things I noticed about Inbox was the lack of a quick way to delete things. It looks like Google doesn't want you deleting your emails. Just moving something to trash seems like an arduous process, and takes 2 whole taps on the mobile app ( and 2 clicks on desktop ). 
+One of the first things I noticed about Inbox was the lack of a quick way to delete things. It looks like Google doesn't want you deleting your emails. Just moving something to trash seems like an arduous process, and takes 2 whole taps on the mobile app ( and 2 clicks on desktop ).
 
 Of course the `Done` Tab sort-of functions like the trash-bin. Sort-Of. It takes all emails you're done with and stows them away in a different Tab. And like who the hell is gonna browse through that now? Google has thusly taken away much of `Trash`s  power. I dread to ponder over the future of this much-loved mail-icon.
 
-#Final Verdict 
+# Final Verdict
 
 If you love Google Now, and its alert style, you are going to love inbox too. Don't let that pretty interface fool you though. There are a LOT of little niggles in Inbox, and using it after years of being accustomed to Gmail, is going to be a little tiring. Google has abandoned many of Gmail's most iconic features in trying to create the email of the future. And not all of its substitutes function perfectly. The sorting algorithms of Google, in particular leave lots of room for improvement. But in the end, Google Inbox does what it claims to do, and does it pretty well for a radically new idea.
-
-####No I don't have any invites left. Or know anyone who does.
-{: .notice}
