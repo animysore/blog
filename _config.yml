@@ -2,13 +2,13 @@ title:            The New Age Tech Connoisseur
 description:      My Thoughts on Tech, Programming and Life
 disqus_shortname: animysore74
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://thenewcon.com
+url:              https://animysore.com
 # Owner/author information
 owner:
   name:           Aniruddha Mysore 
   avatar:         avatar.jpg
-  bio:            "Student. Web Developer. Likes JS, Jekyll and J.R.R.T."
-  email:          animysore@thenewcon.com
+  bio:            "Student and DSC Lead at PESIT South Campus"
+  #email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:
@@ -61,6 +61,8 @@ kramdown:
     coderay_tab_width: 4
     coderay_bold_every: 10
     coderay_css: class
+
+highlighter: rouge
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
