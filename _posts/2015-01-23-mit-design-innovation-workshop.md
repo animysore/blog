@@ -28,11 +28,11 @@ Among these, I felt the most intriguing one, was a device which puts you in the 
 **Shadow Soldier** was an adventure game which had users using two accelerometer-embedded balls to control shadows and progress in the game. A really cool physics simulation!   
 
 <figure class = "half" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-1.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-1.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-2.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-2.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-shadow-soldier-2.jpg" alt="">
     </a>
 </figure>
 
@@ -41,8 +41,8 @@ Among these, I felt the most intriguing one, was a device which puts you in the 
 From the Smart Textiles track, there were several projects that really piqued my interest. Added here it must be, this important point : A lot of these projects used electronics almost completely constructed from fibres.
 
 <figure>  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-speaker.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-speaker.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-speaker.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-speaker.jpg" alt="">
     </a>
     <figcaption> Looks funny eh? </figcaption>
 </figure>
@@ -52,8 +52,8 @@ The pictures above are of a speaker made completely from fabrics and a single Ne
 3D printers which print plastics are common, but this device can print textiles. The printer uses woolen thread on foam pads to create layers of 2-dimensional patterns which can be attached together to create any piece of clothing you want. (Supposedly).
 
 <figure>  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-3d-printer.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-3d-printer.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-3d-printer.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-3d-printer.jpg" alt="">
     </a>
     <figcaption> We can make our own clothes now. How advanced! </figcaption>
 </figure>
@@ -61,14 +61,14 @@ The pictures above are of a speaker made completely from fabrics and a single Ne
 3D touch sensors have loads of applications, and one team decided to have fun by building one completely with fibers. Their oh-so-cushy sensor is also pressure sensitive, and thus happens to be a great game controller. Now we can call, text, and control objects in 3 dimensions by just pressing a pillow. A TV-remote cushion? Oh please oh please oh please.
 
 <figure class = "third" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-1.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-1.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-3.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-3.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-3.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-3.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-2.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-2.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-fabric-touch-2.jpg" alt="">
     </a>
 </figure>    
 
@@ -80,28 +80,28 @@ There were many different projects using the idea of fabric based electronics an
 **Footfall** is a smart carpet which has pressure sensors stitched inside the fabric, with the idea that it can be used to gain crowd information in a big convention or exhibition, by monitoring where and how the crowd moves.
 
 <figure class = "third" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-footfall.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-footfall.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-1.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-1.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-2.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-2.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-footfall-rug-2.jpg" alt="">
     </a>
 </figure>
 
 Here is another smart fabric - one that can sense when it is wet - that uses just conducting thread stitched into a super-absorbent cloth which is then placed under a blanket, and using a small external chip, it can detect where the fabric becomes wet, and can send notifications to a smartphone app whenever there is, eh, a wetness on the cloth. Yes we know the most obvious application here...
 
 <figure class = "third" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-poster.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-poster.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-poster.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-poster.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-1.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-1.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-2.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-2.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-blanket-2.jpg" alt="">
     </a>
 </figure>
 
@@ -112,25 +112,25 @@ This track focused on building cost-effective devices to ease the everyday burde
 Featuring on this category are two simple, low-tech prosthetic arms which have been made to be easy to use.
 
 <figure class = "third" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-1.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-1.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-4.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-4.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-4.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-4.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-5.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-5.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-5.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-prosthetics-5.jpg" alt="">
     </a>
 </figure>
 
 One of the projects that stood out was a thermal vision system for the blind. Essentially it uses electricity to generate heat on a grid. By heating individual units of the grid in patterns, the system can help the blind 'see' a grayscale image of their loved ones, or of pretty much anything.
 
 <figure class = "half" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-1.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-1.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-2.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-2.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-thermal-vision-2.jpg" alt="">
     </a>
     <figcaption> Unfortunately, no live demonstration </figcaption>
 </figure>
@@ -138,8 +138,8 @@ One of the projects that stood out was a thermal vision system for the blind. Es
 **The glove multimeter** (tada) was one device I absolutely loved. This beautiful piece of technology lets you use a glove as a multimeter. Sigh.
 
 <figure>  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-glove-multimeter.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-glove-multimeter.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-glove-multimeter.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-glove-multimeter.jpg" alt="">
     </a>
     <figcaption> Want. Like THIS much</figcaption>
 </figure>
@@ -151,11 +151,11 @@ Several of these projects actually featured things like DNA programming with a p
 **Graffit-E-coli** was by far the coolest exhibit of the Synthetic Biology track. The team had extracted genes from coral, implanted them in the notorious E-coli bacteria to generate bio-paint. And they had a spray paint can with an arduino stuck at the bottom, which supposedly can be used indefinitely, as long as you ensure the E-coli keep living inside. Unlimited Grafitti. Let the vandals feast.
 
 <figure class = "half" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-1.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-1.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-2.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-2.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-graffiti-ecoli-2.jpg" alt="">
     </a>
 </figure>
 
@@ -166,22 +166,22 @@ Several of these projects actually featured things like DNA programming with a p
 Being an `IOT` device, it can be used for things apart from doors, with its adaptability and portability being its greatest feauture. The team members also told me that its future functions included automatically locking and unlocking your door, and acting as a smart security system too.
 
 <figure>  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-smart-door.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-smart-door.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-smart-door.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-smart-door.jpg" alt="">
     </a>
 </figure>
 
 **Sense** is a smart bio watch which along with a smartphone app, and a sensor worn on your body acts like a total health monitoring system. It has the capability to give warnings when your diet is poor, or warn you of any illnesses you may have even before symptoms appear. It can co-ordinate with doctors too. Also it happens to be sleek and great-lookin'.
 
 <figure class = "third" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-1.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-1.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-2.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-2.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-biowatch-2.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-me-wearing-biowatch.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-me-wearing-biowatch.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-me-wearing-biowatch.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-me-wearing-biowatch.jpg" alt="">
     </a>
     <figcaption>  Yep. That's me wearing the watch. Right there. That's me! </figcaption>
 </figure>   
@@ -189,22 +189,22 @@ Being an `IOT` device, it can be used for things apart from doors, with its adap
 Last but most certainly not the least on my favourites list, is the project which I felt will attain instant success world over, without a doubt. Calling all occupants: **The P-Racer** is a game system that can be installed in Men's urinals which promotes friendship among strangers. It has a simple rule : The guy who goes fastest wins. It (apparently) uses a halifax sensor to measure the rotation of a small disc which spins when, well, 'liquids' fall on it. Genius.
 
 <figure class = "half" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-1.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-1.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-1.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-1.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-2.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-2.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-2.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-p-racer-2.jpg" alt="">
     </a>
 </figure>
 
 This is just a very small list of the projects exhibited by the students who participated in the design innovation workshop. The open-house was very well organised, and beautifully done to the very end.
 
 <figure class = "half" >  
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-mentors.jpg">
-       <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-mentors.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-mentors.jpg">
+       <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-mentors.jpg" alt="">
     </a>
-    <a href="/images/2015-01-23-mit-design-innovation-workshop/mit-banner.jpg">
-        <img src="/images/2015-01-23-mit-design-innovation-workshop/mit-banner.jpg" alt="">
+    <a href="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-banner.jpg">
+        <img src="/blog/images/2015-01-23-mit-design-innovation-workshop/mit-banner.jpg" alt="">
     </a>
 </figure>
 

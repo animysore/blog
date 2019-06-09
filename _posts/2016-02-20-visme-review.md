@@ -17,7 +17,7 @@ published: true
 
 As we move into an era where visually-rich content is omnipresent, we find ourselves facing a unique problem: The content you create needs to be showcased in a visually appealing way for it to get noticed, before the content itself is evaluated. Software and tools to aid in Presentation and Infographic creation are now extremely common. [Visme](http://visme.co), is one of the few which stand out in the crowd.
 
-![](/images/2016-02-20-visme-review/visme-logo.jpg)
+![](/blog/images/2016-02-20-visme-review/visme-logo.jpg)
 
 It is a web app that lets you create beautiful, striking presentations, infographics, and short animation clips. Visme creations are interesting in that they are directly exported to HTML5. This means they can be embedded on any website or social network, and be viewed as if they were being played offline on your computer. Visme also hosts your creations so you can easily share them through a link. 
 
@@ -28,13 +28,13 @@ Visme is subscription based, but also has a watered-down version which you can u
 #### 1. UI Finesse
 
 <figure>  
-	<a href="/images/2016-02-20-visme-review/visme-canvas.jpg">
-       <img src="/images/2016-02-20-visme-review/visme-canvas.jpg" alt="">
+	<a href="/blog/images/2016-02-20-visme-review/visme-canvas.jpg">
+       <img src="/blog/images/2016-02-20-visme-review/visme-canvas.jpg" alt="">
     </a>
 </figure>
 <figure>
-	<a href="/images/2016-02-20-visme-review/visme-settings.jpg">
-        <img src="/images/2016-02-20-visme-review/visme-settings.jpg" alt="">
+	<a href="/blog/images/2016-02-20-visme-review/visme-settings.jpg">
+        <img src="/blog/images/2016-02-20-visme-review/visme-settings.jpg" alt="">
     </a>
 </figure>              
 
@@ -47,8 +47,8 @@ I personally loved Visme's interface. It has the right blend of minimalism, with
 #### 2. Lots of great (mostly free) templates
 
 <figure>  
-    <a href="/images/2016-02-20-visme-review/visme-themes.jpg">
-        <img src="/images/2016-02-20-visme-review/visme-themes.jpg" alt="">
+    <a href="/blog/images/2016-02-20-visme-review/visme-themes.jpg">
+        <img src="/blog/images/2016-02-20-visme-review/visme-themes.jpg" alt="">
     </a>
 </figure>  
 
@@ -57,8 +57,8 @@ Visme lets you create a project in three ways : A presentation template, an info
 #### 3. Easy adding of Charts, Graphs, Images and Videos
 
 <figure>  
-    <a href="/images/2016-02-20-visme-review/visme-graph-engine.jpg">
-        <img src="/images/2016-02-20-visme-review/visme-graph-engine.jpg" alt="">
+    <a href="/blog/images/2016-02-20-visme-review/visme-graph-engine.jpg">
+        <img src="/blog/images/2016-02-20-visme-review/visme-graph-engine.jpg" alt="">
     </a>
 </figure> 
 
@@ -75,8 +75,8 @@ Although object animations are not yet supported, there are lots of text animati
 #### 5.  Great resource library with background images, sounds, icons, banners - Essential for Infographs
 
 <figure>  
-    <a href="/images/2016-02-20-visme-review/visme-library.gif">
-        <img src="/images/2016-02-20-visme-review/visme-library.gif" alt="">
+    <a href="/blog/images/2016-02-20-visme-review/visme-library.gif">
+        <img src="/blog/images/2016-02-20-visme-review/visme-library.gif" alt="">
     </a>
 </figure> 
 
@@ -89,8 +89,8 @@ Infographs are presently trending, and Visme lets you create really beautiful on
 #### Import/Export
 
 <figure>  
-    <a href="/images/2016-02-20-visme-review/visme-export.gif">
-        <img src="/images/2016-02-20-visme-review/visme-export.gif" alt="">
+    <a href="/blog/images/2016-02-20-visme-review/visme-export.gif">
+        <img src="/blog/images/2016-02-20-visme-review/visme-export.gif" alt="">
     </a>
 </figure> 
 
@@ -107,8 +107,8 @@ Visme allows you to embed anything in an iFrame format, which essentially opens 
 Since the offline presentations are stored in HTML you can easily tweak around a little bit to go beyond what can be done in Visme's editor. I haven't tried this yet, but I will post my results soon.
 
 <figure>  
-    <a href="/images/2016-02-20-visme-review/visme-code.png">
-        <img src="/images/2016-02-20-visme-review/visme-code.png" alt="">
+    <a href="/blog/images/2016-02-20-visme-review/visme-code.png">
+        <img src="/blog/images/2016-02-20-visme-review/visme-code.png" alt="">
     </a>
     <figcaption> Codesnap of Visme's HTML export</figcaption>
 </figure>  

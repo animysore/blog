@@ -22,8 +22,8 @@ Last week, I downloaded Nimble Quest, a game inspired by the Nokia classic `Snak
 After a few minutes of playing, I got curious and loaded up the file manager on my phone. I located the game's `Data` folder, and opened up the preferences' `xml` file. 
 
 <figure>  
-    <a href="/images/2014-11-18-why-video-games-should-get-better-security/games-datafolder-path.png">
-        <img src="/images/2014-11-18-why-video-games-should-get-better-security/games-thumb-datafolder-path.png" alt="">
+    <a href="/blog/images/2014-11-18-why-video-games-should-get-better-security/games-datafolder-path.png">
+        <img src="/blog/images/2014-11-18-why-video-games-should-get-better-security/games-thumb-datafolder-path.png" alt="">
     </a>
 </figure>
 
@@ -45,11 +45,11 @@ Hacking the game couldn't have been easier. Values of Unlocked characters, gems 
 
 In the end all my geeky knowledge helped me to hack into the game (in about 20 minutes), resulting in this :  
 <figure class = "half" >  
-	<a href="/images/2014-11-18-why-video-games-should-get-better-security/game-init-screen.png">
-       <img src="/images/2014-11-18-why-video-games-should-get-better-security/game-thumb-init-screen.png" alt="">
+	<a href="/blog/images/2014-11-18-why-video-games-should-get-better-security/game-init-screen.png">
+       <img src="/blog/images/2014-11-18-why-video-games-should-get-better-security/game-thumb-init-screen.png" alt="">
     </a>
-	<a href="/images/2014-11-18-why-video-games-should-get-better-security/game-finl-screen.png">
-        <img src="/images/2014-11-18-why-video-games-should-get-better-security/game-thumb-finl-screen.png" alt="">
+	<a href="/blog/images/2014-11-18-why-video-games-should-get-better-security/game-finl-screen.png">
+        <img src="/blog/images/2014-11-18-why-video-games-should-get-better-security/game-thumb-finl-screen.png" alt="">
     </a>
 </figure>   
 

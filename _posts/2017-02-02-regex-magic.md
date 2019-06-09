@@ -17,7 +17,7 @@ Regular Expressions ( aka the regex ) are powerful tools for doing string compar
 
 The Raw data:
 
-![The raw pdf data](/images/2017-02-02-regex-magic/original.png)
+![The raw pdf data](/blog/images/2017-02-02-regex-magic/original.png)
 
 My required format:
 
@@ -41,7 +41,7 @@ First I copied everything in the pdf to a plaintext file. ctrl+A ctrl+C ctrl+V
 
 Result:
 
-![Result after simple copy paste](/images/2017-02-02-regex-magic/copypaste.png)
+![Result after simple copy paste](/blog/images/2017-02-02-regex-magic/copypaste.png)
 
 There seems to be rough order, with the question and each option being on new line. Questions and options are preceded by a number or an alphabet. Now this is a small snapshot of the file. This format was more or less consistent throughout the file, but with the occassional aberration. I have not included those here for simplicity's sake. And now, to start writing my Regular Expression!
 
@@ -65,7 +65,7 @@ I'm still a rookie when it comes to regexes. This is a simple project, but it st
 
 If you aren't sure what these cryptic characters mean, here's an explanation:
 
-![Explanation by Regex 101](/images/2017-02-02-regex-magic/explanation.png)
+![Explanation by Regex 101](/blog/images/2017-02-02-regex-magic/explanation.png)
 
 ### Step 3 : Replace!
 
@@ -101,6 +101,6 @@ Mashing together the individual pieces, to form the final search and replace exp
 
 Here's how it looks, in action:
 
-![Gif of final regexes in action](/images/2017-02-02-regex-magic/rec.gif)
+![Gif of final regexes in action](/blog/images/2017-02-02-regex-magic/rec.gif)
 
 And that's the way it's done :neckbeard:

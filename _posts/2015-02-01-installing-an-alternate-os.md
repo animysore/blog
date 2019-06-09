@@ -16,7 +16,7 @@ published: true
 
 #### ***Why most programmers need an alternate operating system and how you should go about getting one***
 
-![Linux Distros](/images/2015-02-01-installing-an-alternate-os/linux-distros.png)
+![Linux Distros](/blog/images/2015-02-01-installing-an-alternate-os/linux-distros.png)
 
 So, if you are reading this on a laptop or a desktop computer, I can say with **98.98 percent**[^1] surety that you are using a version of either the Windows or Mac `Operating System`.
 
@@ -41,7 +41,7 @@ In the end it comes down simply to what best fits your comfort zone. The Mac OS 
 
 First of all, it is not required for you to actually install an OS on your hard disk to use one. Lots of Linux operating systems let you run operating systems on flash drives and cd's. Usually this is to let you demo the OS before installing, but with this method you can actually use an entire OS without it installing on your hard drive.
 
-![Virtualbox](/images/2015-02-01-installing-an-alternate-os/virtualbox.jpg)
+![Virtualbox](/blog/images/2015-02-01-installing-an-alternate-os/virtualbox.jpg)
 
 Almost all operating systems out there can be run by `virtualization`. What this means is that you use an OS within another OS. There are several great software for doing this, for both Windows and Mac (Also Linux). **Virtualbox** and **VMware** (Virtualbox is free) come on the very top of the list.
 
@@ -74,7 +74,7 @@ There are plenty of software for burning ISO files. Here are two free ones, for 
    - For burning to discs : [Free Iso Burner](http://freeisoburner.com/)
    - For burning to USB : [ISO to USB](http://isotousb.com/)
 
-![Boot Option BIOS](/images/2015-02-01-installing-an-alternate-os/bios-screen.png)
+![Boot Option BIOS](/blog/images/2015-02-01-installing-an-alternate-os/bios-screen.png)
 
 After you burn the ISO image, insert the USB/Disc. Run the autorun if it has one - it most likely will - or directly proceed to restart your computer. Before your OS loads, on the BIOS screen, hit the key for the boot option menu (Usually`f9`on PC's) and select either USB or CD depending on which your OS is loaded. I bid you smooth sailing.
 
@@ -102,7 +102,7 @@ So all the installation is done. **Check if everything is functioning as it shou
 
 Also ensure your multi-boot screen is functioning correctly. ( This will be `GRUB` if you have any linux versions installed ) The boot repair disk can fix most issues with GRUB. If you have installed Windows freshly, GRUB may not be accessible during startup and you will directly boot Windows. Again, the boot repair disk can fix this issue.
 
-![Grub](/images/2015-02-01-installing-an-alternate-os/grub-screen.jpg)
+![Grub](/blog/images/2015-02-01-installing-an-alternate-os/grub-screen.jpg)
 
 > Aah, the satisfaction of using a freshly installed OS
 

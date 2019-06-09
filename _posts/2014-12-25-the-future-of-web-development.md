@@ -13,8 +13,8 @@ share: true
 published: true
 ---
 <figure>  
-    <a href="/images/2014-12-25-the-future-of-web-development/future-polymer-logo.svg">
-        <img src="/images/2014-12-25-the-future-of-web-development/future-polymer-logo.svg" alt="">
+    <a href="/blog/images/2014-12-25-the-future-of-web-development/future-polymer-logo.svg">
+        <img src="/blog/images/2014-12-25-the-future-of-web-development/future-polymer-logo.svg" alt="">
     </a>
 </figure>
 >***The stuff that dreams of are made of*** " ~ The Maltese Falcon
@@ -32,7 +32,7 @@ Sir Tim Berners Lee (All Hail!) also created the Hypertext Markup Language - HTM
 
 Across the world, there is great belief that web based applications will be the future - of not just the web - but also smartphone and desktop apps. The arguments put forth for proclaiming web apps as the next conquerors are quite simple. Web-browser based applications are easy create - they primarily use the languages and technologies used to build regular websites - and will run on a multitude of platforms with just some minor adjustments. Today, with the rise of several mobile and desktop operating systems, each with their own system type, each with their own specific set of programming languages to develop with, more and more people (developers to be precise) are clamoring for a unified technology that allows one to build an app once, and get it to work everywhere.
 
-Putting it all together, the general idea, is that why not make applications which are run by a web browser as opposed to them being run directly by an operating sywww.polymer-project.org/images/logos/p-logo.svgstem - To create what is quintessentially an operating system which is run on top of another operating system.
+Putting it all together, the general idea, is that why not make applications which are run by a web browser as opposed to them being run directly by an operating sywww.polymer-project.org/blog/images/logos/p-logo.svgstem - To create what is quintessentially an operating system which is run on top of another operating system.
 
 >***Oh if it were only so simple*** ~ Aleksandr Solzhenitsyn
 
@@ -47,8 +47,8 @@ Here is a more detailed and well explained article regarding Google and Web appl
 One thing anyone can say for sure, looking at the present scenario, is that Flash will be driven to extinction. In 2010, Apple sounded the death knell for Flash by making iPad's and iPhone's incompatible with Flash. Google followed, and all versions of Android past ICS, do not offer any native Flash support. However HTML 5 is not replacing Flash at a rate which would be expected. Presently most browsers offer only limited compatibility with HTML 5, despite it being having more performance benefits. The vast majority of video streaming sites use Flash player, rather than HTML 5 based solutions. Even Youtube, still uses Flash Player, although it's rapidly going HTML. It looks like Flash is not going to go down without a fight.
 
 <figure>  
-    <a href="/images/2014-12-25-the-future-of-web-development/future-flash-gravestone.jpeg">
-        <img src="/images/2014-12-25-the-future-of-web-development/future-flash-gravestone.jpeg" alt="RIP Flash">
+    <a href="/blog/images/2014-12-25-the-future-of-web-development/future-flash-gravestone.jpeg">
+        <img src="/blog/images/2014-12-25-the-future-of-web-development/future-flash-gravestone.jpeg" alt="RIP Flash">
     </a>
 </figure>
 
@@ -68,8 +68,8 @@ Scripts can be run client-side, meaning your device takes instructions from a pi
 In 2009, we witnessed the birth of Node.js, a server side scripting language based on Javascript. Node.js is being showcased as the successor the world's most widely used server side language php. It is possible to dismiss this as an absurd notion if we consider the vastness of php in terms of market-share, but we must keep in mind that Node.js is a very new language, and very efficient and light as compared to php. Linkedin does the backend of it's mobile apps using Node.js. Paypal (Gasp!) uses Node.js, and so do all [these guys](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node). What is most important of all, is that Node.js is getting developers hooked.
 
 <figure>  
-    <a href="/images/2014-12-25-the-future-of-web-development/future-node-logo.png">
-        <img src="/images/2014-12-25-the-future-of-web-development/future-node-logo.png" alt="Node.js">
+    <a href="/blog/images/2014-12-25-the-future-of-web-development/future-node-logo.png">
+        <img src="/blog/images/2014-12-25-the-future-of-web-development/future-node-logo.png" alt="Node.js">
     </a>
 </figure>
 
@@ -78,8 +78,8 @@ In 2009, we witnessed the birth of Node.js, a server side scripting language bas
 Let me start off the introduction to Angular.js with this picture :
 
 <figure>  
-    <a href="/images/2014-12-25-the-future-of-web-development/future-angularjs-logo.png">
-        <img src="/images/2014-12-25-the-future-of-web-development/future-angularjs-logo.png" alt="Angular in 4 words">
+    <a href="/blog/images/2014-12-25-the-future-of-web-development/future-angularjs-logo.png">
+        <img src="/blog/images/2014-12-25-the-future-of-web-development/future-angularjs-logo.png" alt="Angular in 4 words">
     </a>
 </figure>
 
@@ -105,8 +105,8 @@ along with a few other languages.
 A rather small, but interesting thing to note is that the use of content management systems is on the rise. A CMS is generally used when there are large amounts of data to be posted on a website, or a large number of users post data to a website. Most blogging platforms like WordPress, Weebly and Blogger use CMS, along with e-commerce sites which use specialized CMS's such as Magento. If you want to use a CMS for your website (not one that is on a blogging platform) Drupal is highly recommended, as it is open source.
 
 <figure>  
-    <a href="/images/2014-12-25-the-future-of-web-development/future-cms-graph.png">
-        <img src="/images/2014-12-25-the-future-of-web-development/future-thumb-cms-graph.jpg" alt="Angular in 4 words">
+    <a href="/blog/images/2014-12-25-the-future-of-web-development/future-cms-graph.png">
+        <img src="/blog/images/2014-12-25-the-future-of-web-development/future-thumb-cms-graph.jpg" alt="Angular in 4 words">
     </a>
 </figure>
 
