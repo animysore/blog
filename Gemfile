@@ -11,3 +11,5 @@ gem 'stringex'
 gem 'jekyll-paginate'
 gem 'pygments.rb'
 require 'rbconfig'
+
+gem "github-pages", group: :jekyll_plugins
