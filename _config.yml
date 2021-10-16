@@ -1,8 +1,8 @@
-title:            The New Age Tech Connoisseur
+title:            AniMysore's Blog
 description:      My Thoughts on Tech, Programming and Life
 disqus_shortname: animysore74
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              localhost:6000
+url:              animysore.com/blog
 # Owner/author information
 owner:
   name:           Aniruddha Mysore 
@@ -10,11 +10,11 @@ owner:
   bio:            "Student and DSC Lead at PESIT South Campus"
   #email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        ani_mysore
   facebook:
   github:         animysore
   stackexchange:  
-  linkedin:       
+  linkedin:       https://linkedin.com/in/animysore
   instagram:      
   flickr:         
   tumblr:         
