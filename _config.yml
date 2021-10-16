@@ -2,7 +2,7 @@ title:            AniMysore's Blog
 description:      My Thoughts on Tech, Programming and Life
 disqus_shortname: animysore74
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              animysore.com/blog
+url:              https://animysore.com/blog
 # Owner/author information
 owner:
   name:           Aniruddha Mysore 
